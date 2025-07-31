@@ -1,20 +1,20 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # Como configurar/instalar/usar o `Windows via docker` no `Linux Ubuntu`
+# # Como configurar/instalar/usar o `windows_via_docker_on_linux` no `Linux Ubuntu`
 # 
 # ## Resumo
 # 
-# Neste documento estão contidos os principais comandos e configurações para configurar/instalar/usar o `Windows via docker` no `Linux Ubuntu`.
+# Neste documento estão contidos os principais comandos e configurações para configurar/instalar/usar o `windows_via_docker_on_linux` no `Linux Ubuntu`.
 # 
 # ## _Abstract_
 # 
-# _This document contains the main commands and settings for configuring/installing/using the `Windows via docker` on `Linux Ubuntu`._
+# _This document contains the main commands and settings for configuring/installing/using the `windows_via_docker_on_linux` on `Linux Ubuntu`._
 # 
 
 # ## Descrição [2]
 # 
-# ### `Windows via docker`
+# ### `windows_via_docker_on_linux`
 # 
 # O Windows via Docker refere-se à execução de contêineres do Windows em ambientes Docker. Isso permite que aplicativos baseados no Windows sejam empacotados, distribuídos e executados usando a tecnologia de contêineres, oferecendo portabilidade, isolamento e escalabilidade. Com o Docker, os desenvolvedores podem criar e testar aplicativos do Windows de forma consistente em diferentes ambientes, simplificando o processo de desenvolvimento e implantação de software.
 # 
@@ -27,9 +27,9 @@
 # `Remmina` é um cliente de desktop remoto de código aberto que suporta vários protocolos, como `RDP`, `VNC`, `SSH`, `NX`, `XDMCP` e `SPICE`. Ele oferece uma interface intuitiva e fácil de usar para acessar e controlar sistemas remotos de forma segura. Com recursos avançados, como suporte a vários perfis de conexão, compartilhamento de área de trabalho e redimensionamento dinâmico, `Remmina` é uma ferramenta versátil para administradores de sistemas e usuários que precisam acessar máquinas remotas de maneira eficiente e conveniente.
 # 
 
-# ## 1. Como configurar/instalar/usar o `Windows via docker` no `Linux Ubuntu` [1][3]
+# ## 1. Como configurar/instalar/usar o `windows_via_docker_on_linux` no `Linux Ubuntu` [1][3]
 # 
-# Para configurar/instalar/usar o `Windows via docker` no `Linux Ubuntu`, você pode seguir estes passos:
+# Para configurar/instalar/usar o `windows_via_docker_on_linux` no `Linux Ubuntu`, você pode seguir estes passos:
 # 
 # 1. Abra o `Terminal Emulator`. Você pode fazer isso pressionando: `Ctrl + Alt + T`
 
@@ -188,7 +188,7 @@
 
 # ### 1.1 Código completo para configurar/instalar/usar
 # 
-# Para configurar/instalar/usar o `Windows via docker` no `Linux Ubuntu` sem precisar digitar linha por linha, você pode seguir estas etapas:
+# Para configurar/instalar/usar o `windows_via_docker_on_linux` no `Linux Ubuntu` sem precisar digitar linha por linha, você pode seguir estas etapas:
 # 
 # 1. Abra o `Terminal Emulator`. Você pode fazer isso pressionando: `Ctrl + Alt + T`
 # 
@@ -201,9 +201,9 @@
 #     sudo apt update -y
 #     sudo apt uptoremove -y
 #     sudo apt autoclean -y
-#     sudo apt-add-repository ppa:Windows via docker-ppa-team/Windows via docker-next
+#     sudo apt-add-repository ppa:windows_via_docker_on_linux-ppa-team/windows_via_docker_on_linux-next
 #     sudo apt update -y
-#     sudo apt install Windows via docker Windows via docker-plugin-rdp Windows via docker-plugin-secret -y
+#     sudo apt install windows_via_docker_on_linux windows_via_docker_on_linux-plugin-rdp windows_via_docker_on_linux-plugin-secret -y
 #     ```
 # 
 
@@ -288,7 +288,7 @@
 
 # ## Referências
 # 
-# [1] OPENAI. ***Instalar Windows via docker no Ubuntu.*** Disponível em: <https://chat.openai.com/c/586f8f0a-8543-4d9f-9f60-98a2fb51a611> (texto adaptado). Acessado em: 05/04/2023 17:11.
+# [1] OPENAI. ***Instalar windows_via_docker_on_linux no Ubuntu.*** Disponível em: <https://chat.openai.com/c/windows-via-docker-installation> (texto adaptado). Acessado em: 05/04/2023 17:11.
 # 
 # [2] OPENAI. ***Vs code: editor popular.*** Disponível em: <https://chat.openai.com/c/b640a25d-f8e3-4922-8a3b-ed74a2657e42> (texto adaptado). Acessado em: 05/04/2024 17:10.
 # 
